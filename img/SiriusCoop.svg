@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="383.253" height="227.007" viewBox="0 0 383.253 227.007">
+  <g id="SiriusCoop" transform="translate(1.003)">
+    <g id="SiriusCoop-2" data-name="SiriusCoop" transform="translate(277.251 70.275)">
+      <text id="SIRIUS" transform="translate(0 35)" fill="#eb6608" font-size="33" font-family="TofinoPersonal-Medium, Tofino Personal" font-weight="500"><tspan x="0" y="0">SIRIUS</tspan></text>
+      <text id="COOP" transform="translate(0 73.646)" fill="#eb6608" font-size="33" font-family="TofinoPersonal-Medium, Tofino Personal" font-weight="500"><tspan x="0" y="0">COOP</tspan></text>
+    </g>
+    <g id="Group_1517" data-name="Group 1517">
+      <path id="Alveole" d="M220.158,0l-98.4,56.751v113.5l98.4,56.751,98.4-56.751V56.752Zm0,12.637L307.6,63.07V163.937l-87.447,50.433L132.71,163.937V63.07l87.447-50.433Z" transform="translate(-73.911)" fill="#eb6608"/>
+      <path id="Separator" d="M547.148,125.662V235.83L573.343,251" transform="translate(-284.061 -62.147)" fill="none" stroke="#eb6608" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Stroke_left" data-name="Stroke left" d="M27.2,55.1,64.333,76.607" transform="translate(-27.2 -27.248)" fill="none" stroke="#eb6608" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="S_Interne" data-name="S Interne" d="M318.184,178.983,195.67,108.84l39.981-22.871,40.84,23.363,40.355-23.086.065-.037-.065-.037,0-.532L260.078,53.167,235.683,38.945l-24.46,14.222-58.041,33.2,122.5,70.135-40.032,22.9-40.827-23.355-40.269-23.036.164,46.661,80.932,47.054,56.8-33.024L316.588,179.9l1.6-.913Z" transform="translate(-89.436 -19.261)" fill="#eb6608"/>
+    </g>
+  </g>
+</svg>

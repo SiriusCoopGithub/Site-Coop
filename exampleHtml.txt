@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sirius Coop</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="one-page">
+    <div class="container">
+<!--Home page starting-->        
+        <section id="accueil" class="home-section active">
+            <header class="main-header">
+                <nav class="main-header__nav">
+                    <ul>
+                        <li><a href="index.html">Accueil</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="portefolio.html">ASBL</a></li>
+                        <li><a href="asbl.html">Portefolio</a></li>
+                        <li><a href="lacooperative.html">La Coopérative</a></li>
+                        <li><a href="blog.html">Blog</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <div class="home-section">
+                <div class="home-section__presentation">
+                    <div class="home-section__presentation--logo">
+                        <img src="img/SiriusCoop.svg">
+                    </div>
+                    <div class="home-section__content"></div>
+                    <div class="home-section__presentation--title">
+                        <h1>La <span class="orange-color">coopérative</span>liégeoise<br>
+                            au cœur de vos projets <span class="orange-color">digitaux</span>
+                        </h1>
+                        
+                        <div class="home-section__presentation--text">
+                            <p>Lorem ipsum <span class="orange-color">Site internet</span><br>
+                                blabla <strong>Personnal Branding</strong> Lorem <strong>Stategie</strong><br>
+                                dolor iles digital sli <strong>E-commerce</strong>
+                            </p>
+                            <div class="home-section__presentation--options">
+                                <p>Vous êtes une<br>
+                                    <span class="background-orange">ASBL ou une coopérative</span><br>
+                                    Ou indépendant/ PME
+                                </p>
+                            </div>
+                            <div class="home-section__presentation--contact-btn">
+                                <a href="#contact">CONTACTEZ NOUS</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="background-animation">
+                    <div class="animation">
+                        <img src="images/site-internet-logo.svg">
+                        <img src="images/strategie-digitale-logo.svg">
+                        <img src="images/e-commerce-erp-logo.svg">
+                        <img src="images/personal-branding-logo.svg">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--End home page-->
+        <section id="services" class="section-page"></section>
+    </div>
+    
+</body>
+</html>
