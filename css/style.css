@@ -4,9 +4,6 @@ body{
     padding: 0%;
     margin: 0%;
 }
-.main-container{
-    margin: 2em 7em;
-}
 img{
     width: 50%;
 }
@@ -17,7 +14,7 @@ img{
     flex-direction: row;
     justify-content: flex-end;
     padding: 0%;
-    /*margin: 0%;*/
+    margin: 2em 7em;
     list-style: none;
 }
 
@@ -36,13 +33,14 @@ img{
     position: absolute;
     top: 90px;
     padding-top: 15px;
+    padding-left: 7em;
     
 }
 /* home-section */
 
 .home-section__content--text{
     text-align: right;
-    margin-right: 0%;
+    margin-right: 7em;
     padding-top: 15px;
     color: #264088;
 }
@@ -82,5 +80,5 @@ img{
     
 }
 .home-section__content--images img{
-    width: 40%;
+    width: 35%;
 }
