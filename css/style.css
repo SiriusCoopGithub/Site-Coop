@@ -1,84 +1,175 @@
 /* global */
-body{
-    font-family: roboto, sans-serif;
-    padding: 0%;
-    margin: 0%;
+body {
+  font-family: roboto, sans-serif;
+  padding: 0%;
+  margin: 0%;
 }
-img{
-    width: 50%;
+img {
+  width: 50%;
 }
 /* global-header */
 
-.main-nav ul{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    padding: 0%;
-    margin: 2em 7em;
-    list-style: none;
+.main-nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0%;
+  margin: 2em 7em;
+  list-style: none;
 }
 
-.main-nav a{
-    text-decoration: none;
-    padding: 1em;
-    text-align: center;
-    display: inline-block;
+.main-nav a {
+  text-decoration: none;
+  padding: 1em;
+  text-align: center;
+  display: inline-block;
 }
-.main-menu li.current a{
-    color: #eb6505;
+.main-menu li.current a {
+  color: #eb6505;
 }
 
-.logo{
-    width: 50%;
-    position: absolute;
-    top: 90px;
-    padding-top: 15px;
-    padding-left: 7em;
-    
+.logo {
+  width: 50%;
+  position: absolute;
+  top: 90px;
+  padding-top: 15px;
+  padding-left: 7em;
 }
 /* home-section */
 
-.home-section__content--text{
-    text-align: right;
-    margin-right: 7em;
-    padding-top: 15px;
-    color: #264088;
+.home-section__content--text {
+  text-align: right;
+  margin-right: 7em;
+  padding-top: 15px;
+  color: #264088;
 }
-.home-section__content__text--title{
-    padding-bottom: 10px;
-    margin-top: 5px;
+.home-section__content__text--title {
+  padding-bottom: 10px;
+  margin-top: 5px;
 }
-.home-section__content__text--title h1{
-    font-size: 2em;
+.home-section__content__text--title h1 {
+  font-size: 2em;
 }
-.orange-color{
-    color: #eb6505;
+.orange-color {
+  color: #eb6505;
 }
-.home-section__content__text--options{
-    padding: 25px 0 20px;
+.home-section__content__text--options {
+  padding: 25px 0 20px;
 }
-.home-section__content__text--contact-btn{
-    background-color: #264088;
-    color: #ffffff;
-    text-decoration: none;
+.home-section__content__text--contact-btn {
+  background-color: #264088;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 15px;
 }
-.home-section__content--img{
-    background-image: url(/img/mozaique-bottom-left.svg);
-    background-repeat: no-repeat;
-    padding: 0%;
-    margin: 0px;
+
+.home-section__content--images {
+  background-image: url(/img/mozaique-bottom-left.svg);
+  background-repeat: no-repeat;
+  height: 350px;
 }
-.home-section__content--images{
-    background-image: url(/img/mozaique-bottom-left.svg);
-    background-repeat: no-repeat;
-    width: 50%;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    
+.home-section__content--images img {
+  width: 130px;
+  position: absolute;
 }
-.home-section__content--images img{
-    width: 35%;
+.img1 {
+  top: 454px;
+  left: 312px;
+}
+.img2 {
+  top: 361px;
+  left: 601px;
+}
+.img3 {
+  top: 636px;
+  left: 480px;
+}
+.img4 {
+  top: 575px;
+  left: 786px;
+}
+
+/* Services page */
+.services-page__container {
+  /*margin: 2em 7em;*/
+}
+/* SERVICES DE LA COOP */
+
+.services-page__container--services {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2em 7em 0 0;
+}
+.services-page__container--services img {
+  padding-right: 50px;
+}
+.textService {
+  text-align: right;
+  padding-top: 25px;
+}
+/* Site internet */
+.services-page__container--siteInternet {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.services-page__container--siteInternet img {
+  text-align: right;
+}
+.textSiteinternet {
+  margin-left: 7em;
+  width: 40%;
+}
+/* Personal branding */
+.services-page__container--personalBranding {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2em 7em 0 0;
+}
+.services-page__container--personalBranding img {
+  padding-right: 50px;
+}
+.textPersonalbranding {
+  text-align: right;
+  padding-top: 25px;
+}
+/* E-commerce/Erp */
+.services-page__container--eCommerceErp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.services-page__container--eCommerceErp img {
+  text-align: right;
+}
+.textEcommerceErp {
+  margin-left: 7em;
+  width: 40%;
+}
+/* stratégie digitale*/
+
+.services-page__container--StrategieDigitale {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2em 7em 0 0;
+}
+.services-page__container--StrategieDigitale img {
+  padding-right: 50px;
+}
+.textStrategieDigitale {
+  text-align: right;
+}
+/* global page services*/
+.services-page__container img {
+  background-image: url(/img/mozaique-bottom-left.svg);
+  background-repeat: no-repeat;
+  width: 500px;
 }
