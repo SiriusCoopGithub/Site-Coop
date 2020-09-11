@@ -55,7 +55,7 @@
   text-decoration: none;
 }
 /* home section (partie images) */
-.home-section__content--images {
+/*.home-section__content--images {
   background-image: url(../img/mozaique-bottom-left.svg);
   background-repeat: no-repeat;
   height: 400px;
@@ -79,4 +79,8 @@
 .img4 {
   top: 216px;
   left: 186px;
+}*/
+.home-section__content--images {
+  background-image: url(../img/blue-background.svg);
+  background-position-x: left 3px;
 }
