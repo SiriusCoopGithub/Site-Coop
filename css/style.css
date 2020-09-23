@@ -36,7 +36,6 @@ img {
 }
 .logo-header img {
   width: 100px;
-  margin-left: 10em;
 }
 
 .logo {
@@ -210,4 +209,38 @@ img {
   background-image: url(/img/mozaique-bottom-left.svg);
   background-repeat: no-repeat;
   width: 500px;
+}
+/* PAGE ASBL */
+.asblContainer {
+  margin-left: 10em;
+}
+.asblContainer__flex-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+/* Première colonne*/
+.flex-content__colonne1 {
+  color: #264088;
+}
+.flex-content__colonne1 p {
+  width: 45%;
+  font-style: oblique;
+  font-size: 20px;
+}
+.flex-content__colonne1 h4 {
+  font-size: 25px;
+  font-style: oblique;
+}
+.asblContainer__baspage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.baspage__text h1 {
+  color: #264088;
+}
+.baspage__text p {
+  color: #264088;
+  font-style: oblique;
 }
