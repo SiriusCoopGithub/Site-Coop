@@ -84,3 +84,15 @@
   background-image: url(../img/blue-background.svg);
   background-position-x: left 3px;
 }
+
+/* pour scrol de la page d'accueil */
+.background-image {
+  background-repeat: no-repeat;
+  position: relative;
+  bottom: 455px;
+  width: 50vw;
+  height: 770px;
+  background-position: bottom-left;
+  top: -425px;
+  bottom: 400px;
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.353" height="18.568" viewBox="0 0 23.353 18.568">
+  <g id="mail-icon-white" transform="translate(0.696 0.5)">
+    <path id="mail-outer" d="M4.2,4H21.764a2.2,2.2,0,0,1,2.2,2.2V19.372a2.2,2.2,0,0,1-2.2,2.2H4.2a2.2,2.2,0,0,1-2.2-2.2V6.2A2.2,2.2,0,0,1,4.2,4Z" transform="translate(-2 -4)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="mail-inner" d="M23.96,6,12.98,13.686,2,6" transform="translate(-2 -3.804)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

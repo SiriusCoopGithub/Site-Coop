@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50">
+  <g id="button-orange" transform="translate(0 0)">
+    <path id="button" d="M14.695-.239,203.72-.086V49.761H3.72V8.477Z" transform="translate(-3.72 0.239)" fill="#eb6608"/>
+  </g>
+</svg>

@@ -1,14 +1,21 @@
-/* global */
+/* GLOBAL */
 body {
   font-family: roboto, sans-serif;
   padding: 0%;
   margin: 0%;
 }
-img {
+/*img {
   width: 50%;
+}*/
+/* PAGE ACCUEIL*/
+.accueil {
+  overflow: hidden;
 }
-/* global-header page accueil */
-
+.main-container {
+  width: 100vw;
+  height: 100vh;
+}
+/* header page accueil */
 .main-nav ul {
   display: flex;
   flex-direction: row;
@@ -26,7 +33,7 @@ img {
   text-align: center;
   display: inline-block;
 }
-.main-menu li.current a {
+.main-menu li.active a {
   color: #eb6505;
 }
 /*  global header autres pages*/
@@ -36,8 +43,10 @@ img {
 }
 .logo-header img {
   width: 100px;
+  margin-left: 10em;
 }
 
+/* logo de la page d'accueil*/
 .logo {
   /*width: 50%;*/
   width: 300px;
@@ -49,7 +58,9 @@ img {
 .logo img {
   width: 90%;
 }
-/* home-section */
+/*  CONTENU PAGE D'ACCUEIL */
+#accueil {
+}
 .home-section__content {
   height: 850px;
 }
@@ -65,20 +76,26 @@ img {
   margin-top: 5px;
 }
 .home-section__content__text--title h1 {
-  font-size: 2em;
+  font-size: 44px;
+  font-weight: bold;
 }
 .orange-color {
   color: #eb6505;
 }
 .home-section__content__text--presentation p {
   font-style: italic;
+  font-size: 24px;
+}
+.home-section__content__text--presentation a {
+  text-decoration: none;
 }
 .home-section__content__text--options {
-  padding: 25px 0 20px;
+  padding: 45px 0 20px;
 }
 .home-section__content__text--options p {
   text-align: right;
   font-style: italic;
+  font-size: 24px;
 }
 .home-section__content__text--contact-btn {
   background-color: #264088;
@@ -86,20 +103,31 @@ img {
   text-decoration: none;
   padding: 10px 15px;
 }
-.home-section__content__text--infos p {
+.home-section__content__text--infos {
   font-weight: bold;
-  font-size: 17px;
+  font-size: 24px;
   font-style: oblique;
   padding-top: 50px;
 }
-
+.home-section__content__text--infos a {
+  text-decoration: none;
+}
+.contacter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #264088;
+}
 .home-section__content--images {
   background-image: url(../img/blue-background-accueil.svg);
   background-repeat: no-repeat;
   position: relative;
-  bottom: 455px;
-  width: 794;
+  top: -719px;
+  width: 974;
   height: 770px;
+  /*width: 50vw;*/
+  /*height: 50vh;*/
+  background-position: bottom left;
 }
 .home-section__content--images img {
   width: 130px;
@@ -122,7 +150,7 @@ img {
   left: 848px;
 }
 
-/* Services page */
+/* PAGE SERVICES */
 .services-page__container {
   /*margin: 2em 7em;*/
   color: #264088;
@@ -130,7 +158,7 @@ img {
 .services-page__container h1 {
   font-weight: bold;
 }
-/* SERVICES DE LA COOP */
+/* differents services de la coop */
 
 .services-page__container--services {
   display: flex;
@@ -214,6 +242,13 @@ img {
 .asblContainer {
   margin-left: 10em;
 }
+.asblContainer__textIntroductif {
+  color: #264088;
+}
+.asblContainer__textIntroductif a {
+  color: #eb6505;
+  text-decoration: none;
+}
 .asblContainer__flex-content {
   display: flex;
   flex-direction: row;
@@ -222,11 +257,13 @@ img {
 /* Première colonne*/
 .flex-content__colonne1 {
   color: #264088;
+  width: 45%;
+  padding-right: 60px;
 }
 .flex-content__colonne1 p {
-  width: 45%;
   font-style: oblique;
   font-size: 20px;
+  padding-right: 70px;
 }
 .flex-content__colonne1 h4 {
   font-size: 25px;
@@ -243,4 +280,58 @@ img {
 .baspage__text p {
   color: #264088;
   font-style: oblique;
+}
+.flex-content__colonne1--backgroundMozaique {
+  display: inline-block;
+  position: relative;
+}
+.flex-content__colonne1--backgroundMozaique p {
+  position: absolute;
+  top: 83px;
+  width: 100%;
+}
+/* deuxième colonne */
+.flex-content__colonne2 {
+  background-image: url(../img/asbl-background.svg);
+  background-repeat: no-repeat;
+  /*background-position-x: ;*/
+  width: 969px;
+  height: 2217px;
+  margin-right: 0;
+}
+.flex-content__colonne2--peopleSvg {
+}
+.flex-content__colonne2--peopleSvg img {
+  width: 926px;
+  height: 575px;
+}
+.flex-content__colonne2--text {
+  width: 50%;
+  padding-left: 30px;
+  padding-top: 350px;
+}
+.flex-content__colonne2--text p {
+  font-style: oblique;
+  font-size: 20px;
+  color: #ffffff;
+}
+.flex-content__colonne2--calltoaction p {
+  font-style: oblique;
+  font-size: 25px;
+  width: 50%;
+  color: #ffffff;
+  padding-left: 30px;
+  padding-top: 180px;
+}
+.flex-content__colonne2--calltoaction a {
+  background-image: url(../img/button-orange.svg);
+  padding: 15px 25px;
+  margin-left: 30px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.flex-content__colonne2--rocketSvg img {
+  position: relative;
+  left: 250px;
+  bottom: 63px;
 }

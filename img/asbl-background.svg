@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="969" height="2217" viewBox="0 0 969 2217">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_595" data-name="Rectangle 595" width="969" height="2217" transform="translate(960 254)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#687dcc"/>
+      <stop offset="0.402" stop-color="#2e4088"/>
+      <stop offset="1" stop-color="#1a244d"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_492" data-name="Rectangle 492" width="850" height="476" transform="translate(0 0)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="asbl-background" transform="translate(-960 -254)" clip-path="url(#clip-path)">
+    <path id="Polygon" d="M1479.711,155.411l960,554.254V1818.171l-960,554.259L519.719,1818.171V709.664Z" transform="translate(440.28 98.59)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <g id="asbl-mozaique-background" transform="translate(1079.197 698)" clip-path="url(#clip-path-2)" style="mix-blend-mode: screen;isolation: isolate">
+      <path id="Alveole" d="M46.882,0,0,27.021V81.063l46.882,27.021L93.764,81.063V27.021Z" transform="translate(701.782 336.722) rotate(120)" fill="none" stroke="#2e4088" stroke-width="8" opacity="0.55"/>
+      <path id="Alveole-2" data-name="Alveole" d="M44.788,0,0,25.814V77.442l44.788,25.814L89.575,77.442V25.814Z" transform="translate(311.213 45.003) rotate(120)" fill="none" stroke="#eb6608" stroke-width="3" opacity="0.07"/>
+      <path id="Alveole-3" data-name="Alveole" d="M57.725,0,0,33.271V99.812l57.725,33.271L115.45,99.812V33.271Z" transform="translate(780.731 68.688) rotate(120)" fill="none" stroke="#2e4088" stroke-width="4" opacity="0.1"/>
+      <path id="Alveole-4" data-name="Alveole" d="M61.721,0,0,35.574v71.148l61.721,35.573,61.721-35.574V35.574Z" transform="translate(654.131 234.359) rotate(120)" fill="none" stroke="#2e4088" stroke-width="7" opacity="0.23"/>
+      <path id="Alveole-5" data-name="Alveole" d="M61.721,0,0,35.574v71.148l61.721,35.573,61.721-35.574V35.574Z" transform="translate(561.324 356.751) rotate(120)" fill="none" stroke="#2e4088" stroke-width="1" opacity="0.56"/>
+      <path id="Alveole-6" data-name="Alveole" d="M41.772,0,0,24.076V72.229L41.772,96.3,83.545,72.229V24.076Z" transform="translate(543.695 134.951) rotate(120)" fill="none" stroke="#2e4088" stroke-width="3" opacity="0.1"/>
+      <path id="Alveole-7" data-name="Alveole" d="M53.59,0,0,30.888V92.663l53.59,30.887,53.59-30.888V30.888Z" transform="translate(443.672 321.894) rotate(120)" fill="none" stroke="#2e4088" stroke-width="13" opacity="0.04"/>
+      <path id="Alveole-8" data-name="Alveole" d="M16.72,0,0,9.637V28.911l16.72,9.637,16.72-9.637V9.637Z" transform="translate(186.71 285.311) rotate(120)" fill="none" stroke="#2e4088" stroke-width="5" opacity="0.26"/>
+      <path id="Alveole-9" data-name="Alveole" d="M43.247,0,0,24.926V74.778L43.247,99.7,86.494,74.778V24.926Z" transform="translate(824.229 299.47) rotate(120)" fill="none" stroke="#2e4088" stroke-width="1" opacity="0.38"/>
+      <path id="Alveole-10" data-name="Alveole" d="M61.721,0,0,35.574v71.148l61.721,35.573,61.721-35.574V35.574Z" transform="translate(274.237 109.302) rotate(120)" fill="none" stroke="#2e4088" stroke-width="4" opacity="0.06"/>
+      <path id="Alveole-11" data-name="Alveole" d="M42.453,0,0,24.468V73.405L42.453,97.874,84.906,73.405V24.469Z" transform="translate(917.213 209.071) rotate(120)" fill="none" stroke="#eb6608" stroke-width="2" opacity="0.16"/>
+      <path id="Alveole-12" data-name="Alveole" d="M49.458,0,0,28.506V85.518l49.458,28.506L98.917,85.518V28.506Z" transform="translate(506.06 178.14) rotate(120)" fill="none" stroke="#2e4088" stroke-width="2" opacity="0.13"/>
+      <path id="Alveole-13" data-name="Alveole" d="M46.845,0,0,27V81l46.845,27L93.69,81V27Z" transform="translate(759.651 207.906) rotate(120)" fill="none" stroke="#2e4088" stroke-width="6" opacity="0.1"/>
+      <path id="Alveole-14" data-name="Alveole" d="M61.721,0,0,35.574v71.148l61.721,35.573,61.721-35.574V35.574Z" transform="translate(905.357 369.094) rotate(120)" fill="none" stroke="#2e4088" stroke-width="4" opacity="0.64"/>
+      <path id="Alveole-15" data-name="Alveole" d="M18.2,0,0,10.49V31.471l18.2,10.49,18.2-10.49V10.49Z" transform="translate(789.998 153.967) rotate(120)" fill="none" stroke="#2e4088" stroke-width="2" opacity="0.32"/>
+      <path id="Alveole-16" data-name="Alveole" d="M28.285,0,0,16.3V48.908l28.285,16.3,28.285-16.3V16.3Z" transform="translate(843.588 97.132) rotate(120)" fill="none" stroke="#eb6608" stroke-width="4" opacity="0.35"/>
+      <path id="Alveole-17" data-name="Alveole" d="M38.588,0,0,22.241V66.722L38.588,88.963,77.176,66.722V22.241Z" transform="translate(858.872 252.163) rotate(120)" fill="#2e4088" stroke="#2e4088" stroke-width="2" opacity="0.1"/>
+      <path id="Alveole-18" data-name="Alveole" d="M32.1,0,0,18.5V55.511l32.1,18.5,32.1-18.5V18.5Z" transform="translate(670.001 111.773) rotate(120)" fill="none" stroke="#2e4088" stroke-width="10" opacity="0.19"/>
+      <path id="Alveole-19" data-name="Alveole" d="M61.721,0,0,35.574v71.148l61.721,35.573,61.721-35.574V35.574Z" transform="translate(285.582 332.173) rotate(120)" fill="none" stroke="#2e4088" stroke-width="3" opacity="0.1"/>
+      <path id="Alveole-20" data-name="Alveole" d="M46.5,0,0,26.8V80.4l46.5,26.8L93,80.4V26.8Z" transform="translate(709.375 269.153) rotate(120)" fill="none" stroke="#2e4088" stroke-width="3" opacity="0.3"/>
+      <path id="Alveole-21" data-name="Alveole" d="M79.877,0,0,46.038v92.077l79.877,46.038,79.877-46.038V46.039Z" transform="translate(1001.774 198.828) rotate(120)" fill="none" stroke="#2e4088" stroke-width="6" opacity="0.65"/>
+      <path id="Alveole-22" data-name="Alveole" d="M46.392,0,0,26.739V80.217l46.392,26.739L92.785,80.217V26.739Z" transform="translate(123.391 250.533) rotate(120)" fill="none" stroke="#79819f" stroke-width="4" opacity="0.12"/>
+    </g>
+  </g>
+</svg>

@@ -7,24 +7,25 @@
     <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
-    <section id="asbl" class="page-asbl">
-      <div class="asblContainer">
-        <!--header-->
-        <header class="logo-header">
-          <img src="img/SiriusCoop.svg" alt="logo du site" />
-          <nav class="main-nav" role="navigation">
-            <ul class="main-menu">
-              <li class="current"><a href="index.html">Accueil</a></li>
-              <li><a href="services.html">Services</a></li>
-              <li><a href="asbl.html">ASBL</a></li>
-              <li><a href="portfolio.html">Portfolio</a></li>
-              <li><a href="lacooperative.html">La Coopérative</a></li>
-              <li><a href="blog.html">Blog</a></li>
-              <li><a href="contact.html">Contact</a></li>
-            </ul>
-          </nav>
-        </header>
-        <h1>
+    <div id="asbl" class="page-asbl">
+      <!--header-->
+      <header class="logo-header">
+        <img src="img/SiriusCoop.svg" alt="logo du site" />
+        <nav class="main-nav" role="navigation">
+          <ul class="main-menu">
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li class="active"><a href="asbl.html">ASBL</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="lacooperative.html">La Coopérative</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </header>
+      <!--contenu principal-->
+      <div id="asblContent" class="asblContainer">
+        <h1 class="asblContainer__textIntroductif">
           Vous êtes une
           <a class="orange" href="asbl.html">ASBL</a>
           ou une
@@ -70,6 +71,7 @@
               </p>
             </div>
             <div class="flex-content__colonne1--backgroundMozaique">
+              <img src="img/cta-background.svg" alt="" />
               <p>
                 Jetez un oeil à notre
                 <span class="orange-color">portfolio</span>
@@ -79,7 +81,9 @@
             </div>
           </div>
           <div class="flex-content__colonne2">
-            <img src="img/people.svg" alt="" />
+            <div class="flex-content__colonne2--peopleSvg">
+              <img src="img/people.svg" alt="" />
+            </div>
             <div class="flex-content__colonne2--text">
               <p>
                 Notre collectif soutient les projets au petit budget et
@@ -100,7 +104,9 @@
               </p>
               <a href="contact.html">CONTACTEZ NOUS</a>
             </div>
-            <img src="img/drawing-rocket.svg" alt="" />
+            <div class="flex-content__colonne2--rocketSvg">
+              <img src="img/drawing-rocket.svg" alt="" />
+            </div>
           </div>
         </div>
         <div class="asblContainer__baspage">
@@ -123,6 +129,8 @@
           <div class="baspage__contact"></div>
         </div>
       </div>
-    </section>
+      <!--fin contenu principal-->
+      <footer></footer>
+    </div>
   </body>
 </html>
