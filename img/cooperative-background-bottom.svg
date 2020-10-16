@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2584" viewBox="0 0 1920 2584">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_597" data-name="Rectangle 597" width="1920" height="2584" transform="translate(0 5114)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.512" x2="0.675" y2="0.772" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4a63c2"/>
+      <stop offset="0.55" stop-color="#2e4088"/>
+      <stop offset="1" stop-color="#172044"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_580" data-name="Rectangle 580" width="850" height="476" transform="translate(0 0)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_598" data-name="Rectangle 598" width="275" height="440" transform="translate(379 23)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="cooperative-background-bottom" transform="translate(0 -5114)" clip-path="url(#clip-path)">
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M13951.474,21352.381H10904.312L9383,18710.5l1308.423-2266.256,3046.739-.24,1523.565,2643.408Zm-394.184-3546.275-1790.27.143L10998.192,19137.9l893.923,1552.371h1790.517l769.906-1330.9Z" transform="translate(-12341.531 -11330.057)" fill="url(#linear-gradient)"/>
+    <g id="Background_Alveole_top" data-name="Background Alveole top" transform="translate(991 5173)" clip-path="url(#clip-path-2)" style="mix-blend-mode: screen;isolation: isolate">
+      <path id="Alveole" d="M46.882,108.084,0,81.063V27.021L46.882,0,93.764,27.021V81.063Z" transform="translate(608.179 193.32) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="8" opacity="0.55"/>
+      <path id="Alveole-2" data-name="Alveole" d="M44.788,103.256,0,77.442V25.814L44.788,0,89.575,25.814V77.442Z" transform="translate(221.79 482.625) rotate(-120)" fill="none" stroke="#eb6608" stroke-width="3" opacity="0.07"/>
+      <path id="Alveole-3" data-name="Alveole" d="M57.725,133.083,0,99.812V33.271L57.725,0,115.45,33.271V99.812Z" transform="translate(665.478 473.854) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="4" opacity="0.1"/>
+      <path id="Alveole-4" data-name="Alveole" d="M61.721,142.295,0,106.721V35.574L61.721,0l61.721,35.574v71.147Z" transform="translate(530.9 312.788) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="7" opacity="0.23"/>
+      <path id="Alveole-5" data-name="Alveole" d="M61.721,142.295,0,106.721V35.574L61.721,0l61.721,35.574v71.147Z" transform="translate(438.094 190.397) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="1" opacity="0.56"/>
+      <path id="Alveole-6" data-name="Alveole" d="M41.772,96.3,0,72.229V24.076L41.772,0,83.545,24.076V72.228Z" transform="translate(460.293 389.201) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="3" opacity="0.1"/>
+      <path id="Alveole-7" data-name="Alveole" d="M53.59,123.551,0,92.663V30.887L53.59,0l53.59,30.888V92.663Z" transform="translate(336.674 215.881) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="13" opacity="0.04"/>
+      <path id="Alveole-8" data-name="Alveole" d="M16.72,38.548,0,28.911V9.637L16.72,0l16.72,9.637V28.911Z" transform="translate(153.326 209.963) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="5" opacity="0.26"/>
+      <path id="Alveole-9" data-name="Alveole" d="M43.247,99.7,0,74.778V24.926L43.247,0,86.494,24.926V74.778Z" transform="translate(737.883 226.382) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="1" opacity="0.38"/>
+      <path id="Alveole-10" data-name="Alveole" d="M61.721,142.295,0,106.721V35.574L61.721,0l61.721,35.574v71.147Z" transform="translate(151.006 437.846) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="4" opacity="0.06"/>
+      <path id="Alveole-11" data-name="Alveole" d="M42.453,97.874,0,73.405V24.468L42.453,0,84.906,24.468V73.405Z" transform="translate(832.452 315.866) rotate(-120)" fill="none" stroke="#eb6608" stroke-width="2" opacity="0.16"/>
+      <path id="Alveole-12" data-name="Alveole" d="M49.458,114.024,0,85.518V28.506L49.458,0,98.917,28.506V85.518Z" transform="translate(407.313 354.872) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="2" opacity="0.13"/>
+      <path id="Alveole-13" data-name="Alveole" d="M46.845,108,0,81V27L46.845,0,93.69,27V81Z" transform="translate(666.121 322.094) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="6" opacity="0.1"/>
+      <path id="Alveole-14" data-name="Alveole" d="M61.721,142.295,0,106.721V35.574L61.721,0l61.721,35.574v71.147Z" transform="translate(782.126 178.054) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="4" opacity="0.64"/>
+      <path id="Alveole-15" data-name="Alveole" d="M18.2,41.961,0,31.471V10.49L18.2,0,36.4,10.49v20.98Z" transform="translate(753.659 343.014) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="2" opacity="0.32"/>
+      <path id="Alveole-16" data-name="Alveole" d="M28.285,65.21,0,48.908V16.3L28.285,0,56.57,16.3V48.908Z" transform="translate(787.114 411.473) rotate(-120)" fill="none" stroke="#eb6608" stroke-width="4" opacity="0.35"/>
+      <path id="Alveole-17" data-name="Alveole" d="M38.588,88.963,0,66.722V22.241L38.588,0,77.176,22.241V66.722Z" transform="translate(781.828 268.318) rotate(-120)" fill="#2e4088" stroke="#2e4088" stroke-width="2" opacity="0.1"/>
+      <path id="Alveole-18" data-name="Alveole" d="M32.1,74.014,0,55.511V18.5L32.1,0l32.1,18.5V55.511Z" transform="translate(605.903 401.234) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="10" opacity="0.19"/>
+      <path id="Alveole-19" data-name="Alveole" d="M61.721,142.295,0,106.721V35.574L61.721,0l61.721,35.574v71.147Z" transform="translate(162.352 214.975) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="3" opacity="0.1"/>
+      <path id="Alveole-20" data-name="Alveole" d="M46.5,107.2,0,80.4V26.8L46.5,0,93,26.8V80.4Z" transform="translate(616.533 260.449) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="3" opacity="0.3"/>
+      <path id="Alveole-21" data-name="Alveole" d="M79.877,184.154,0,138.115V46.038L79.877,0l79.877,46.038v92.077Z" transform="translate(842.292 369.249) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="6" opacity="0.65"/>
+      <path id="Alveole-22" data-name="Alveole" d="M46.392,106.956,0,80.217V26.739L46.392,0,92.785,26.739V80.217Z" transform="translate(30.765 278.945) rotate(-120)" fill="none" stroke="#79819f" stroke-width="4" opacity="0.12"/>
+    </g>
+    <g id="Mozaique-top-right" transform="translate(1266.197 6833)" clip-path="url(#clip-path-3)" style="mix-blend-mode: screen;isolation: isolate">
+      <path id="Alveole-23" data-name="Alveole" d="M46.882,108.084,0,81.063V27.021L46.882,0,93.764,27.021V81.063Z" transform="translate(608.179 193.32) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="8" opacity="0.55"/>
+      <path id="Alveole-24" data-name="Alveole" d="M57.725,133.083,0,99.812V33.271L57.725,0,115.45,33.271V99.812Z" transform="translate(665.478 473.854) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="4" opacity="0.1"/>
+      <path id="Alveole-25" data-name="Alveole" d="M61.721,142.295,0,106.721V35.574L61.721,0l61.721,35.574v71.147Z" transform="translate(530.9 312.788) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="7" opacity="0.23"/>
+      <path id="Alveole-26" data-name="Alveole" d="M61.721,142.295,0,106.721V35.574L61.721,0l61.721,35.574v71.147Z" transform="translate(438.094 190.396) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="1" opacity="0.56"/>
+      <path id="Alveole-27" data-name="Alveole" d="M41.772,96.3,0,72.229V24.076L41.772,0,83.545,24.076V72.228Z" transform="translate(460.293 389.201) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="3" opacity="0.1"/>
+      <path id="Alveole-28" data-name="Alveole" d="M49.458,114.024,0,85.518V28.506L49.458,0,98.917,28.506V85.518Z" transform="translate(407.313 354.872) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="2" opacity="0.13"/>
+      <path id="Alveole-29" data-name="Alveole" d="M46.845,108,0,81V27L46.845,0,93.69,27V81Z" transform="translate(666.121 322.094) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="6" opacity="0.1"/>
+      <path id="Alveole-30" data-name="Alveole" d="M32.1,74.014,0,55.511V18.5L32.1,0l32.1,18.5V55.511Z" transform="translate(605.903 401.234) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="10" opacity="0.19"/>
+      <path id="Alveole-31" data-name="Alveole" d="M46.5,107.2,0,80.4V26.8L46.5,0,93,26.8V80.4Z" transform="translate(616.533 260.449) rotate(-120)" fill="none" stroke="#2e4088" stroke-width="3" opacity="0.3"/>
+    </g>
+  </g>
+</svg>
